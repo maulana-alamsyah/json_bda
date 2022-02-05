@@ -1,0 +1,78 @@
+{
+  "menu": {
+    "foods": [
+      {
+        "id": 1,
+        "gambar": "/images/Donut_sushi.png",
+        "nama": "Donut Sushi",
+        "harga": 50
+      },
+      {
+        "id": 2,
+        "gambar": "/images/Sashimi.png",
+        "nama": "Sashimi",
+        "harga": 50
+      },
+      {
+        "id": 3,
+        "gambar": "/images/Temarizushi.png",
+        "nama": "Temarizushi",
+        "harga": 50
+      },
+      {
+        "id": 4,
+        "gambar": "/images/Hosomaki.png",
+        "nama": "Hosomaki",
+        "harga": 50
+      }
+    ],
+    "drinks": [
+      {
+        "nama": "Donut Sushi",
+        "harga": 50
+      },
+      {
+        "nama": "Sashimi",
+        "harga": 50
+      },
+      {
+        "nama": "Temarizushi",
+        "harga": 50
+      },
+      {
+        "nama": "Hosomaki",
+        "harga": 50
+      }
+    ]
+  },
+  "keranjang": [
+    {
+      "gambarUrl": "/images/Donut_sushi.png",
+      "namaMakanan": "Donut Sushi",
+      "hargaMakanan": 50,
+      "jumlahPesan": 4,
+      "id": 1
+    },
+    {
+      "gambarUrl": "/images/Sashimi.png",
+      "namaMakanan": "Sashimi",
+      "hargaMakanan": 50,
+      "jumlahPesan": 2,
+      "id": 2
+    },
+    {
+      "gambarUrl": "/images/Temarizushi.png",
+      "namaMakanan": "Temarizushi",
+      "hargaMakanan": 50,
+      "jumlahPesan": 1,
+      "id": 3
+    },
+    {
+      "gambarUrl": "/images/Hosomaki.png",
+      "namaMakanan": "Hosomaki",
+      "hargaMakanan": 50,
+      "jumlahPesan": 1,
+      "id": 4
+    }
+  ]
+}
