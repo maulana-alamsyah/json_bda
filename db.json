@@ -45,34 +45,40 @@
       }
     ]
   },
+  "meja": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
   "keranjang": [
     {
       "gambarUrl": "/images/Donut_sushi.png",
       "namaMakanan": "Donut Sushi",
       "hargaMakanan": 50,
-      "jumlahPesan": 4,
+      "jumlahPesan": 52,
       "id": 1
     },
     {
       "gambarUrl": "/images/Sashimi.png",
       "namaMakanan": "Sashimi",
       "hargaMakanan": 50,
-      "jumlahPesan": 2,
+      "jumlahPesan": 3,
       "id": 2
+    }
+  ],
+  "tagihan": [
+    {
+      "total": 150,
+      "mejaId": 1,
+      "id": 1
     },
     {
-      "gambarUrl": "/images/Temarizushi.png",
-      "namaMakanan": "Temarizushi",
-      "hargaMakanan": 50,
-      "jumlahPesan": 1,
-      "id": 3
-    },
-    {
-      "gambarUrl": "/images/Hosomaki.png",
-      "namaMakanan": "Hosomaki",
-      "hargaMakanan": 50,
-      "jumlahPesan": 1,
-      "id": 4
+      "total": 0,
+      "mejaId": 2,
+      "id": 2
     }
   ]
 }
